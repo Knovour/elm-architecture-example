@@ -3,8 +3,8 @@
 
 ```
 npm i elm -g
-cd PROJECT_FOLDER
 
+cd PROJECT_FOLDER
 elm-package inatall
 elm-refactor
 ```
